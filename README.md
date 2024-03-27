@@ -32,9 +32,9 @@ To get started with Graph Algorithm Visualizer, you'll need to have Python insta
 
 # Usage
 
-To run the visualizer, execute the main script (assuming it's named gui_script.py):
+To run the visualizer, execute the main script :
 
-  python gui_script.py
+  python main_script.py
   
 This will open up the GUI, where you can interact with the predefined graph or customize it to your liking. You can visualize different search algorithms by clicking on the respective buttons.
 
